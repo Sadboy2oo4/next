@@ -1,15 +1,16 @@
 *{
 	box-sizing: border-box;
 }
+@font-face{font-family: themillion; src: url(letra.ttf);}
 body{
 	background-color: hotpink;
-	font-family: Bradley Hand ITC;
+	font-family: themillion;
 	font-size: 30px;
 	justify-content: center;
 }
 h1{
 	font-size: 150px;
-	font-family: Bradley Hand ITC;
+	font-family: themillion;
 }
 h2{
     font-size: 100px;
