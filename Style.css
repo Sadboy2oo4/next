@@ -8,8 +8,14 @@ body{
 	justify-content: center;
 }
 h1{
-	font-size: 180px;
+	font-size: 150px;
 	font-family: Bradley Hand ITC;
+}
+h2{
+    font-size: 100px;
+    position: absolute;
+    top: 150px;
+    left: 630px;
 }
 #imguno{
 	position: absolute;
