@@ -15,7 +15,7 @@ h2{
     font-size: 100px;
     position: absolute;
     top: 180px;
-    left: 610px;
+    left: 580px;
 }
 #imguno{
 	position: absolute;
@@ -49,8 +49,8 @@ h2{
     font-size: 24px;
     overflow: hidden;
     transition: 0.2s;
-	top: 5px;
-	left: 690px;  
+	top: 20px;
+	left: 690px; 
 }
 .btn-neon:hover{
     background: purple;
