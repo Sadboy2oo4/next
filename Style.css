@@ -50,8 +50,8 @@ h2{
     font-size: 24px;
     overflow: hidden;
     transition: 0.2s;
-	top: 25px;
-	left: 750px;   
+	top: 5px;
+	left: 680px;  
 }
 .btn-neon:hover{
     background: purple;
