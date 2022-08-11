@@ -3,13 +3,13 @@
 }
 body{
 	background-color: hotpink;
-	font-family: sans-serif;
+	font-family: arial;
 	font-size: 30px;
 	justify-content: center;
 }
 h1{
 	font-size: 150px;
-	font-family: sans-serif;
+	font-family: arial;
 }
 h2{
     font-size: 100px;
