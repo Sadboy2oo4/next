@@ -3,7 +3,7 @@
 }
 body{
 	background-color: hotpink;
-	font-family: arial;
+	font-family:arial;
 	font-size: 30px;
 	justify-content: center;
 }
@@ -50,7 +50,7 @@ h2{
     overflow: hidden;
     transition: 0.2s;
 	top: 20px;
-	left: 690px; 
+	left: 690px;   
 }
 .btn-neon:hover{
     background: purple;
